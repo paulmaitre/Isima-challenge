@@ -431,7 +431,7 @@ notebook @ file:///home/conda/feedstock_root/build_artifacts/notebook_1654636967
 notebook-executor @ file:///opt/conda/conda-bld/dlenv-base_1656637564616/work/packages/notebook_executor
 notebook-shim @ file:///home/conda/feedstock_root/build_artifacts/notebook-shim_1646330736330/work
 numba @ file:///home/conda/feedstock_root/build_artifacts/numba_1655473306076/work
-numexpr==2.8.4
+numexpr==2.8.5
 numpy==1.21.6
 nvtx @ file:///home/conda/feedstock_root/build_artifacts/nvtx_1637264760951/work
 oauth2client==4.1.3
